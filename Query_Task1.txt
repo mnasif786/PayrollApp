@@ -1,0 +1,21 @@
+SELECT e.Name,
+CAST(((s.AnnualAmount * 1)/c.ConvertionFactor) AS DECIMAL(10,2)) As AmountInGBP
+FROM Employees e 
+	JOIN Salaries  s ON e.EmpolyeeId = s.EmployeeId
+	JOIN Currencies c ON s.CurrencyId = c.CurrencyId
+
+
+
+I have used this Coversion Formula:
+
+amount(from) * rate(from) / rate(to)
+
+for example: 
+
+2*1/1.54 = 1.29 GBP
+
+means
+
+2 dollar = 1.29 GBP
+
+

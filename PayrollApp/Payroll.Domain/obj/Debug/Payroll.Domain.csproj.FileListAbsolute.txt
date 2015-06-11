@@ -1,0 +1,15 @@
+D:\BitBucket\PayrollApp\Payroll.Domain\bin\Debug\Payroll.Domain.dll
+D:\BitBucket\PayrollApp\Payroll.Domain\bin\Debug\Payroll.Domain.pdb
+D:\BitBucket\PayrollApp\Payroll.Domain\obj\Debug\Payroll.Domain.csprojResolveAssemblyReference.cache
+D:\BitBucket\PayrollApp\Payroll.Domain\obj\Debug\Payroll.Domain.dll
+D:\BitBucket\PayrollApp\Payroll.Domain\obj\Debug\Payroll.Domain.pdb
+D:\PayrollApp\PayrollApp\Payroll.Domain\bin\Debug\Payroll.Domain.dll.config
+D:\PayrollApp\PayrollApp\Payroll.Domain\bin\Debug\Payroll.Domain.dll
+D:\PayrollApp\PayrollApp\Payroll.Domain\bin\Debug\Payroll.Domain.pdb
+D:\PayrollApp\PayrollApp\Payroll.Domain\bin\Debug\EntityFramework.dll
+D:\PayrollApp\PayrollApp\Payroll.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\PayrollApp\PayrollApp\Payroll.Domain\bin\Debug\EntityFramework.xml
+D:\PayrollApp\PayrollApp\Payroll.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\PayrollApp\PayrollApp\Payroll.Domain\obj\Debug\Payroll.Domain.csprojResolveAssemblyReference.cache
+D:\PayrollApp\PayrollApp\Payroll.Domain\obj\Debug\Payroll.Domain.dll
+D:\PayrollApp\PayrollApp\Payroll.Domain\obj\Debug\Payroll.Domain.pdb

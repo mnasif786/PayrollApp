@@ -1,0 +1,5 @@
+D:\BitBucket\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe.config
+D:\BitBucket\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe
+D:\BitBucket\PayrollApp\PayrollApp\bin\Debug\PayrollApp.pdb
+D:\BitBucket\PayrollApp\PayrollApp\obj\Debug\PayrollApp.exe
+D:\BitBucket\PayrollApp\PayrollApp\obj\Debug\PayrollApp.pdb

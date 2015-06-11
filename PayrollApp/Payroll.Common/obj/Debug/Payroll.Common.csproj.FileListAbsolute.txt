@@ -1,0 +1,11 @@
+D:\BitBucket\PayrollApp\Payroll.Common\bin\Debug\Payroll.Common.dll
+D:\BitBucket\PayrollApp\Payroll.Common\bin\Debug\Payroll.Common.pdb
+D:\BitBucket\PayrollApp\Payroll.Common\obj\Debug\Payroll.Common.dll
+D:\BitBucket\PayrollApp\Payroll.Common\obj\Debug\Payroll.Common.pdb
+D:\PayrollApp\PayrollApp\Payroll.Common\bin\Debug\Payroll.Common.dll
+D:\PayrollApp\PayrollApp\Payroll.Common\bin\Debug\Payroll.Common.pdb
+D:\PayrollApp\PayrollApp\Payroll.Common\bin\Debug\Payroll.Domain.dll
+D:\PayrollApp\PayrollApp\Payroll.Common\bin\Debug\Payroll.Domain.pdb
+D:\PayrollApp\PayrollApp\Payroll.Common\obj\Debug\Payroll.Common.csprojResolveAssemblyReference.cache
+D:\PayrollApp\PayrollApp\Payroll.Common\obj\Debug\Payroll.Common.dll
+D:\PayrollApp\PayrollApp\Payroll.Common\obj\Debug\Payroll.Common.pdb
